@@ -29,7 +29,7 @@ Please ensure that all contributions are original or properly attributed to thei
 
 ## License
 
-This project is licensed under the [Apache License](LICENSE.md) - see the LICENSE file for details.
+This project is licensed under the [Apache-2.0 license](LICENSE.md) - see the LICENSE file for details.
 
 ## Acknowledgments
 
